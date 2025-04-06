@@ -12,6 +12,13 @@ An AI-driven adaptive learning system focused on accessibility and personalizati
 - React Router for navigation
 - TanStack Query for data fetching
 
+### Google Technologies
+- Google Cloud Speech-to-Text API for voice recognition
+- Google Cloud Text-to-Speech API for audio output
+- Google Cloud Translation API for multilingual support
+- Google Custom Search API for content discovery
+- Google OAuth 2.0 for authentication
+
 ### State Management & Data Flow
 - React Query for server state
 - React Hooks for local state
@@ -70,8 +77,7 @@ Main layout component providing consistent structure across pages with:
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
-cd learn-gen
+git clone [https://github.com/ravikirank2018/learn-gen-main]
 ```
 
 2. Install dependencies
@@ -136,9 +142,6 @@ npm run preview
 4. Push to the branch
 5. Open a pull request
 
-## License
-
-MIT License - see LICENSE file for details
 
 ## Support
 
